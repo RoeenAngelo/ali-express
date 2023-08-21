@@ -1,5 +1,5 @@
 <script setup>
-import MainLayout from '~/layouts/MainLayout.vue'
+import MainLayout from './MainLayout.vue'
 </script>
 
 <template>
@@ -8,5 +8,6 @@ import MainLayout from '~/layouts/MainLayout.vue'
       Index Page
     </div>
   </MainLayout>
+  
 </template>
 
